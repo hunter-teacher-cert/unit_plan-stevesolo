@@ -103,9 +103,11 @@ Total lenght: 2 Weeks (10 classes)
 
 ### Assesments
 (list summative and/or formative assessments used)
+
 Formative:
 - UNIX Navigation Screenshot Safari
 - BC Calculator Academic Calendar Exercise (Finding the Easter holiday for a given Year)
+
 Summative:
 - 2-3 page report on a Bell Lab Innovation and how it has utility or influence in today's world
 - A predictive population model using AWK
