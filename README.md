@@ -68,21 +68,21 @@ platforms.
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
-A UNIX/Linux Enviroment like MAC OSX, Ubuntu, BSD or Replit
-VIM editor
-GUI text editor (basic)
-Eclipse IDE 
-X-Code IDE (if MAC OSX)
-Clang C compiler
-A Word Processor Program (Word, Pages, Sheets or the like)
+- A UNIX/Linux Enviroment like MAC OSX, Ubuntu, BSD or Replit
+- VIM editor
+- GUI text editor (basic)
+- Eclipse IDE 
+- X-Code IDE (if MAC OSX)
+- Clang C compiler
+- A Word Processor Program (Word, Pages, Sheets or the like)
 
  
 ---
 
 ### Resources
-selections from UNIX: A Memoir By Brian Kernighan
-selections from The Innovators By Walter Isaacson
-a selection from Practical Astronomy with Your Calculator by Peter Duffett-Smith
+- selections from UNIX: A Memoir By Brian Kernighan
+- selections from The Innovators By Walter Isaacson
+- a selection from Practical Astronomy with Your Calculator by Peter Duffett-Smith
 
 ---
 
@@ -104,10 +104,10 @@ Total lenght: 2 Weeks (10 classes)
 ### Assesments
 (list summative and/or formative assessments used)
 Formative:
-UNIX Navigation Screenshot Safari
-BC Calculator Academic Calendar Exercise (Finding the Easter holiday for a given Year)
+- UNIX Navigation Screenshot Safari
+- BC Calculator Academic Calendar Exercise (Finding the Easter holiday for a given Year)
 Summative:
-2-3 page report on a Bell Lab Innovation and how it has utility or influence in today's world
-A predictive population model using AWK
+- 2-3 page report on a Bell Lab Innovation and how it has utility or influence in today's world
+- A predictive population model using AWK
 
 ---
