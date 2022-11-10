@@ -68,18 +68,35 @@ platforms.
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+A UNIX/Linux Enviroment like MAC OSX, Ubuntu, BSD or Replit
+VIM editor
+GUI text editor (basic)
+Eclipse IDE 
+X-Code IDE (if MAC OSX)
+Clang C compiler
+A Word Processor Program (Word, Pages, Sheets or the like)
 
+ 
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
+selections from UNIX: A Memoir By Brian Kernighan
+selections from The Innovators By Walter Isaacson
 
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 2 Weeks (10 classes)
 
 (list each lesson with main topic(s))
+
+1. Opeating Systems in-depth (Day 1)
+2. Bell Labs History of Innovation (Day 2)
+3. Bell Labs History of UNIX and C (Day 3)
+4. Unix Navigation (Day 4)
+5. Unix Enviroment  (Days 5, 6, & 7)
+6. Intro to C (Day 8)
+7. Intro to AWK and Statistical Modeling with AWK (Day 9 & 10)
 
 ---
 
