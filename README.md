@@ -12,13 +12,13 @@ previous knowledge with applied math skills like building predictive models and 
 There will also be a social studies component with a history of Bell Labs and its impact on today's society. 
 
 Lessons
-1. Opeating Systems in-depth
+1. Operating Systems in-depth
 2. Bell Labs History I
 3. Unix Navigation
 4. Unix Enviroment I
 5. Bell Labs History II
 6. Unix Enviroment II Intro to BC calculator
-7. Regular Expressions and GREP
+7. Unix Enviroment III intro to Regular Expressions
 8. Intro to C
 9. Intro to AWK
 10. Statistical Modeling with AWK
@@ -82,6 +82,7 @@ A Word Processor Program (Word, Pages, Sheets or the like)
 ### Resources
 selections from UNIX: A Memoir By Brian Kernighan
 selections from The Innovators By Walter Isaacson
+a selection from Practical Astronomy with Your Calculator by Peter Duffett-Smith
 
 ---
 
@@ -102,5 +103,11 @@ Total lenght: 2 Weeks (10 classes)
 
 ### Assesments
 (list summative and/or formative assessments used)
+Formative:
+UNIX Navigation Screenshot Safari
+BC Calculator Academic Calendar Exercise (Finding the Easter holiday for a given Year)
+Summative:
+2-3 page report on a Bell Lab Innovation and how it has utility or influence in today's world
+A predictive population model using AWK
 
 ---
