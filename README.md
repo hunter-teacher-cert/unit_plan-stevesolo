@@ -92,7 +92,7 @@ Total lenght: 2 Weeks (10 classes)
 (list each lesson with main topic(s))
 
 1. Opeating Systems in-depth (Day 1)
-2. Bell Labs History of Innovation (Day 2)
+2. Bell Labs History of Innovation (Day 2 & 3)
 3. Bell Labs History of UNIX and C (Day 3)
 4. Linux OS & UNIX/Linux Navigation (Day 4)
 5. Unix Enviroment  (Days 5, 6, & 7)
