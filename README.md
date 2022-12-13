@@ -106,6 +106,7 @@ Total lenght: 2 Weeks (10 classes)
 
 Formative:
 - UNIX Navigation Screenshot Safari
+- UNIX M/C quiz
 - BC Calculator Academic Calendar Exercise (Finding the Easter holiday for a given Year)
 
 Summative:
