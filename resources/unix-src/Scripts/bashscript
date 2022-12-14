@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo '...Text Output By Interpreted Shell Script'
