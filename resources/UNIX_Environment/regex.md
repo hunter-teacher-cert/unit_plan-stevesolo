@@ -74,3 +74,5 @@ Regular expressions can be used with text processing commands like vi, grep, sed
   Example2: Match all lines that start with a digit followed by zero or one ‘:’ characters E.g. “1” or “2:”
   
     $ grep “^[0-9]:?” file1
+   
+   Now let us go [here to this online regex tester ](https://regex101.com/r/FoeGKr/1) and practice together.
