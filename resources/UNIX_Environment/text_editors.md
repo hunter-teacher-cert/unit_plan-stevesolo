@@ -101,6 +101,6 @@ U (Note: capital) - Undo all changes to the current line
 
 You may want to have line numbers in your doc, especially when editing code.
 
-    :set
+    :set nu
 
     
