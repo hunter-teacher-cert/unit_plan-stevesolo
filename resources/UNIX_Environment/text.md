@@ -66,7 +66,7 @@ UNIX has two very powerful and useful utilities, 'grep' and 'sed'. Especially wh
 I happen to be a very bad speller. So bad, in fact, that I often do not even know how to spell some words close enough for spell checks to even recognize what I WANT to spell. I have a trick, however. In UNIX and Linux distros there is a dictionary file. This can useful for testing passwords and other things. Now, my spelling problem is Ludicrous(sp?) I know, but I do know that it starts with lud. Let me see how it is spelled. My dictionary example is for Mac OSX UNIX.
 
     more /usr/share/dict/words | grep ^lud | more
-Phew! I spelled it correctly. Now I didd't need that final pipe through more at the end for this particular search, but I was not sure how many words in the dict file started with lud and I didn't want too many words on my terminal screen.
+Phew! I spelled it correctly. Now I didn't need that final pipe through more at the end for this particular search, but I was not sure how many words in the dict file started with lud and I didn't want too many words on my terminal screen.
 
 The other command is 'sed' or Stream EDitor. It allows for editing text files from the command lind or "in-line." The most common use of 'sed' is to replace words with other words. Usually this is done with text from a text file, but we'll do a couple of examples first using 'echo'
     
