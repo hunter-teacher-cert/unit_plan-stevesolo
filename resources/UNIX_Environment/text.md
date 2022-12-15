@@ -41,6 +41,22 @@ The '>' is a i/o or redirection operator in UNIX. You can also use '>>' followin
  
  ### User Input
  
- There is another an
+There is another another write command for accepting user imput called 'read', which we will look at when we study bc. This should not be confused with cat or echo.
+
+### Sorting
+
+UNIX can arrange items in alphanumerical order with the 'sort' command including thos in text files
+
+    cat names.txt
+Then..
+
+    sort names.txt
+
+Lines of text from multiple files can be merged and sorted into one display
+
+    sort names.txt fruit.txt
+If you want to display AND save to a new file, instead of > or >> you can pipe it through to the 'tee' command
     
+    sort names.txt fruit.txt | sorted.txt
+
   
