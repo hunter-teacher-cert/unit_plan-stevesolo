@@ -11,17 +11,6 @@ the transistor, cell phones, lasers, and of course UNIX and C. This unit would i
 previous knowledge with applied math skills like building predictive models and the use of the very powerful and versatile BC calculator. 
 There will also be a social studies component with a history of Bell Labs and its impact on today's society. 
 
-Lessons
-1. Operating Systems in-depth
-2. Bell Labs History I
-3. Unix Navigation
-4. Unix Enviroment I
-5. Bell Labs History II
-6. Unix Enviroment II Intro to BC calculator
-7. Unix Enviroment III intro to Regular Expressions
-8. Intro to C
-9. Intro to AWK
-10. Statistical Modeling with AWK
 
 ---
 
@@ -94,9 +83,9 @@ Total lenght: 2 Weeks (10 classes)
 1. Opeating Systems in-depth (Day 1)
 2. Bell Labs History of Innovation (Day 2 & 3)
 3. Bell Labs History of UNIX and C (Day 3)
-4. Linux OS & UNIX/Linux Navigation (Day 4)
-5. Unix Enviroment  (Days 5, 6, & 7)
-6. Intro to C (Day 8)
+4. Linux OS & UNIX/Linux Navigation (Days 4 & 5)
+5. Unix Enviroment  (Days 5, 6)
+6. Intro to C style syntax with the bc Calculator (Days 7 & 8)
 7. Intro to AWK and Statistical Modeling with AWK (Day 9 & 10)
 
 ---
