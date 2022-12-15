@@ -42,5 +42,39 @@ Save and exit the file you currently have open.
     
     :x!
     
+### Navigating a File
+
+Go back into the file we just created and enter some more content. 
+    
+    vi sample.txt
+    
+In insert mode you may use the arrow keys to move the cursor around. Enter two more paragraphs of content then hit Esc to go back to edit mode.
+
+Here are some of the many commands you may enter to move around the file. Let's have a play with them and see how they work.
+
+Arrow keys - move the cursor around
+    
+j, k, h, l - move the cursor down, up, left and right (similar to the arrow keys)
+    
+^ (caret) - move cursor to beginning of current line
+    
+$ - move cursor to end of the current line
+    
+nG - move to the nth line (eg 5G moves to 5th line)
+    
+G - move to the last line
+    
+w - move to the beginning of the next word
+    
+nw - move forward n word (eg 2w moves two words forwards)
+    
+b - move to the beginning of the previous word
+    
+nb - move back n word
+    
+{ - move backward one paragraph
+    
+} - move forward one paragraph
+
 
     
