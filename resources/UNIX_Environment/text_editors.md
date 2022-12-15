@@ -75,6 +75,32 @@ nb - move back n word
 { - move backward one paragraph
     
 } - move forward one paragraph
+    
+    k
+ 
+### Deleting
+    
+Here are some of the many ways in which you can delete content within vi.
 
+x - delete a single character
+    
+nx - delete n characters (eg 5x deletes five characters)
+    
+dd - delete the current line
+    
+dn - d followed by a movement command. Delete to where the movement command would have taken you. (eg d5w means delete 5 words)
+
+### Undo
+
+u - Undo the last action (you may keep pressing u to keep undoing)
+    
+U (Note: capital) - Undo all changes to the current line
+
+    
+### Line Numbers
+
+You may want to have line numbers in your doc, especially when editing code.
+
+    :set
 
     
