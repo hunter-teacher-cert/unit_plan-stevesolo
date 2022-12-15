@@ -57,12 +57,9 @@ platforms.
 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
-- A UNIX/Linux Enviroment like MAC OSX, Ubuntu, BSD or Replit
-- VIM editor
+- A UNIX/Linux Environment like MAC OSX, Ubuntu, BSD or Replit
+- vi editor
 - GUI text editor (basic)
-- Eclipse IDE 
-- X-Code IDE (if MAC OSX)
-- Clang C compiler
 - A Word Processor Program (Word, Pages, Sheets or the like)
 
  
@@ -84,7 +81,7 @@ Total lenght: 2 Weeks (10 classes)
 2. Bell Labs History of Innovation (Day 2 & 3)
 3. Bell Labs History of UNIX and C (Day 3)
 4. Linux OS & UNIX/Linux Navigation (Days 4 & 5)
-5. Unix Enviroment  (Days 5, 6)
+5. Unix Environment  (Days 5, 6)
 6. Intro to C style syntax with the bc Calculator (Days 7 & 8)
 7. Intro to AWK and Statistical Modeling with AWK (Day 9 & 10)
 
