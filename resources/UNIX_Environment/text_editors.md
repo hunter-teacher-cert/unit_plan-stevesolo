@@ -18,5 +18,24 @@ We run vi with a single command line argument which is the file you would like t
     
 Now we will edit a written file.
 
-    vi sample
+    vi sample.txt
 
+When you run this command it opens up the file. If the file does not exist then it will create it for you then open it up. (no need to touch files before editing them)
+
+You always start off in edit mode so the first thing we are going to do is switch to insert mode by pressing i. You can tell when you are in insert mode as the bottom left corner will tell you. Now type in a few lines of text and press [Esc] which will take you back to edit mode.
+
+### Saving and Exiting
+
+:x! - Save and exit
+:q! - discard all changes, since the last save, and exit
+:w - save file but don't exit
+:wq - again, save and exit
+ZZ (Note: capitals) - again, save and exit
+
+Most commands within vi are executed as soon as you press a sequence of keys. Any command beginning with a colon ( : ) requires you to hit <enter> to complete the command.
+
+Save and exit the file you currently have open
+    
+ x!
+
+ 
