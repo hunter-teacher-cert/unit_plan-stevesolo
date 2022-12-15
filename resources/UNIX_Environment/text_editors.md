@@ -10,7 +10,7 @@ referred to as Vim. Master the vi text editor and learn how to make complex edit
 In this section we'll look at a tool to put content into files and edit that content as well. Vi is a text editor that is most likely very different to any editor you have used before. It will take a while to get your head around but once you do you will realize it is actually quite powerful. Even if you don't
 use Vi all the time you will definitely find that work patterns you develop in learning the editor can be transferred easily to other programs and to great effect. I've chosen to look at Vi first, not because it is the most popular, but I believe it is the easiest to learn. The aim is not to cover everything that Vi can do but to get you up and running with the basics. 
 
-Everything in Vi is done via the keyboard. There are two modes in Vi. Insert (or Input) mode and Edit mode. In input mode you may input or enter content into the file. In edit mode you can move around the file, perform actions such as deleting, copying, search and replace, saving etc. 
+Everything in Vi is done via the keyboard. There are two modes in Vi. Insert (or Input) mode and Edit or Command mode. In input mode you may input or enter content into the file. In edit mode you can move around the file, perform actions such as deleting, copying, search and replace, saving etc. vi always starts in Edit or Command mode.
 
 We run vi with a single command line argument which is the file you would like to edit.
 
