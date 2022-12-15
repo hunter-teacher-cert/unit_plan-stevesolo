@@ -10,7 +10,11 @@ You can add line numbers by adding the the -n option
 
     cat -n poem.txt
  
- ### Writing
+### User Input
+ 
+There is another another command for accepting user imput called 'read', which we will look at when we study bc. This should not be confused with 'cat'.
+
+### Writing
  
  To write contents to the screen you can use the 'echo' command.
  
@@ -39,10 +43,6 @@ The '>' is a i/o or redirection operator in UNIX. You can also use '>>' followin
     cat ballad.txt | less
  'less' is more flexible, it allows you to us the arrows or 'B' and 'Q'
  
- ### User Input
- 
-There is another another write command for accepting user imput called 'read', which we will look at when we study bc. This should not be confused with cat or echo.
-
 ### Sorting
 
 UNIX can arrange items in alphanumerical order with the 'sort' command including thos in text files
@@ -61,7 +61,7 @@ If you want to display AND save to a new file, instead of > or >> you can pipe i
 
 ### Search, Replace and in-Line Editing
 
-UNIX has two very powerful and useful utilities, 'grep' and 'sed'. Especially when these are paired with Regular Expressions that we studied earlier. The grep tool is used for searching with regex patterns to find files that match. We will not go into too much detail about grep in this class, but here is a useful trick that employs 'grep', 'more' and '|' that I often use.
+UNIX has two very powerful and useful utilities, 'grep' and 'sed'. Especially when these are paired with Regular Expressions that we studied earlier. The grep tool is used for searching with regex patterns to find files that match. So, 'grep' copies  to  output  those  lines  in  the  input  that  matches  a  specified pattern. We will not go into too much detail about grep in this class, but here is a useful trick that employs 'grep', 'more' and '|' that I often use.
 
 I happen to be a very bad speller. So bad, in fact, that I often do not even know how to spell some words close enough for spell checks to even recognize what I WANT to spell. I have a trick, however. In UNIX and Linux distros there is a dictionary file. This can useful for testing passwords and other things. Now, my spelling problem is Ludicrous(sp?) I know, but I do know that it starts with lud. Let me see how it is spelled. My dictionary example is for Mac OSX UNIX.
 
