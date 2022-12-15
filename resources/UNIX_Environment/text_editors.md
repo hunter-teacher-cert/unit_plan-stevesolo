@@ -27,15 +27,20 @@ You always start off in edit mode so the first thing we are going to do is switc
 ### Saving and Exiting
 
 :x! - Save and exit
+
 :q! - discard all changes, since the last save, and exit
+
 :w - save file but don't exit
+
 :wq - again, save and exit
+
 ZZ (Note: capitals) - again, save and exit
 
 Most commands within vi are executed as soon as you press a sequence of keys. Any command beginning with a colon ( : ) requires you to hit <enter> to complete the command.
 
-Save and exit the file you currently have open
+Save and exit the file you currently have open.
     
- x!
+    :x!
+    
 
- 
+    
