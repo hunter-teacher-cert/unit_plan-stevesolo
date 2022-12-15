@@ -48,7 +48,7 @@ There is another another write command for accepting user imput called 'read', w
 UNIX can arrange items in alphanumerical order with the 'sort' command including thos in text files
 
     cat names.txt
-Then..
+Then...
 
     sort names.txt
 
@@ -74,10 +74,10 @@ The other command is 'sed' or Stream EDitor. It allows for editing text files fr
 The 's' before /day is the substitution command. We can also use the 's' command to add puctuation. Let's add a set of parantheses around a word. The first occurance of any lowercase string on each line can be matched using '[a-z]\*' As the exact string MAY be unknown in this case the editing command allows an '&' to represent the string in the replacement string section (after the second '/'). All lowercase strings can be matched on each line by appending a 'g' at the end of the command, this stands for Global.
 
     echo hot day | sed 's/[a-z]*/(&)/g
-then
+Then...
 
     echo hot day | sed 's/[a-z]*/(&)(&)/g
-And finally to put a set around both words
+And finally to put a set around both words.
                 
     echo hot day | sed 's/[a-z]*/(&)/g
 
