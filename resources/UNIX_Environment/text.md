@@ -1,4 +1,4 @@
-# Text Manipulation
+# Text Manipulation in UNIX
 
 ### Reading 
 
@@ -73,12 +73,30 @@ The other command is 'sed' or Stream EDitor. It allows for editing text files fr
     echo good day | sed 's/day/night/'
 The 's' before /day is the substitution command. We can also use the 's' command to add puctuation. Let's add a set of parantheses around a word. The first occurance of any lowercase string on each line can be matched using '[a-z]\*' As the exact string MAY be unknown in this case the editing command allows an '&' to represent the string in the replacement string section (after the second '/'). All lowercase strings can be matched on each line by appending a 'g' at the end of the command, this stands for Global.
 
-    echo hot day | sed 's/[a-z]*/(&)/g
+    echo hot day | sed 's/[a-z]*/(&)/g'
 Then...
 
-    echo hot day | sed 's/[a-z]*/(&)(&)/g
+    echo hot day | sed 's/[a-z]*/(&)(&)/g'
 And finally to put a set around both words.
                 
-    echo hot day | sed 's/[a-z]*/(&)/g
+    echo hot day | sed 's/[a-z]*/(&)/g'
+
+Now, a more practical use of 'sed' is to edit text files. We do this by following the sed command with the '-e' option and putting the input file after the pattern.
+
+    sed -e 'pattern' file.txt
+ 
+ Take the bio of Benjamin Franklin in your folder and make you own. I'll use my name but you use yours in your pattern. Let's look at the file first.
+ 
+    cat FranklinBio.txt
+ 
+ Now let us replace Ben's name with ours. Now we want to replace both the first and last name. We can do this by using two option '-e' and patterns
+ 
+    sed -e 's/Benjamin/Stephen/g' -e 's/Franklin/Sabaugh/g' FranklinBio.txt
+ Note, this will only edit the stream to the display. The original file remains unchanged.
+    
+    cat FranklinBio.txt
+ To save our plagiarized bio we can use the methods we learned earlier. Here is one option...
+ 
+    sed -e 's/Benjamin/Stephen/g' -e 's/Franklin/Sabaugh/g' FranklinBio.txt >> SabaughBio.txt
 
   
