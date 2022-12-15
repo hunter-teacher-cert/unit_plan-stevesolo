@@ -1,1 +1,1 @@
-# Text files for UNIX environment lesson
+# Source text files for UNIX unit
